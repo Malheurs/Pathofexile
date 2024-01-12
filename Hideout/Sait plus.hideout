@@ -1,0 +1,241 @@
+﻿{
+  "version": 1,
+  "language": "English",
+  "hideout_name": "Cartographer's Hideout",
+  "hideout_hash": 55414,
+  "music_name": "Default Hideout Music",
+  "music_hash": 52546,
+  "doodads": {
+    "Twilight Stash": {
+      "hash": 3444350531,
+      "x": 323,
+      "y": 336,
+      "r": 62018,
+      "fv": 0
+    },
+    "Twilight Guild Stash": {
+      "hash": 1538167052,
+      "x": 300,
+      "y": 359,
+      "r": 48546,
+      "fv": 0
+    },
+    "Waypoint": {
+      "hash": 1224707366,
+      "x": 307,
+      "y": 380,
+      "r": 0,
+      "fv": 13
+    },
+    "Crafting Bench": {
+      "hash": 2059629901,
+      "x": 341,
+      "y": 390,
+      "r": 0,
+      "fv": 2
+    },
+    "Map Device": {
+      "hash": 2306038834,
+      "x": 333,
+      "y": 356,
+      "r": 0,
+      "fv": 0
+    },
+    "The Last to Die": {
+      "hash": 1079829134,
+      "x": 307,
+      "y": 370,
+      "r": 60895,
+      "fv": 0
+    },
+    "Lilly Roth": {
+      "hash": 261160331,
+      "x": 307,
+      "y": 370,
+      "r": 60851,
+      "fv": 0
+    },
+    "Einhar": {
+      "hash": 2684274993,
+      "x": 344,
+      "y": 324,
+      "r": 44960,
+      "fv": 0
+    },
+    "Alva": {
+      "hash": 2115859440,
+      "x": 316,
+      "y": 324,
+      "r": 60778,
+      "fv": 0
+    },
+    "Helena": {
+      "hash": 845403974,
+      "x": 331,
+      "y": 386,
+      "r": 6698,
+      "fv": 0
+    },
+    "Niko": {
+      "hash": 2906227343,
+      "x": 352,
+      "y": 331,
+      "r": 30099,
+      "fv": 0
+    },
+    "Jun": {
+      "hash": 3992724805,
+      "x": 352,
+      "y": 332,
+      "r": 48197,
+      "fv": 0
+    },
+    "Sister Cassia": {
+      "hash": 10623884,
+      "x": 359,
+      "y": 330,
+      "r": 25240,
+      "fv": 0
+    },
+    "Tane Octavius": {
+      "hash": 4285419720,
+      "x": 337,
+      "y": 322,
+      "r": 38998,
+      "fv": 0
+    },
+    "Kirac": {
+      "hash": 2913423765,
+      "x": 323,
+      "y": 386,
+      "r": 64159,
+      "fv": 0
+    },
+    "Dannig, Warrior Skald": {
+      "hash": 2615294807,
+      "x": 300,
+      "y": 335,
+      "r": 24109,
+      "fv": 0
+    },
+    "Gwennen, the Gambler": {
+      "hash": 2818582618,
+      "x": 316,
+      "y": 320,
+      "r": 31848,
+      "fv": 0
+    },
+    "Tujen, the Haggler": {
+      "hash": 1546641971,
+      "x": 327,
+      "y": 322,
+      "r": 34524,
+      "fv": 0
+    },
+    "Rog, the Dealer": {
+      "hash": 1791193999,
+      "x": 306,
+      "y": 326,
+      "r": 23813,
+      "fv": 0
+    },
+    "Heist Locker": {
+      "hash": 1894447409,
+      "x": 363,
+      "y": 347,
+      "r": 49152,
+      "fv": 0
+    },
+    "Horticrafting Station": {
+      "hash": 1523447611,
+      "x": 364,
+      "y": 364,
+      "r": 49152,
+      "fv": 0
+    },
+    "Candelabrum": {
+      "hash": 1837658399,
+      "x": 368,
+      "y": 373,
+      "r": 6143,
+      "fv": 0
+    },
+    "Candelabrum": {
+      "hash": 1837658399,
+      "x": 367,
+      "y": 339,
+      "r": 6143,
+      "fv": 0
+    },
+    "Discarded Sheet": {
+      "hash": 1485949557,
+      "x": 361,
+      "y": 380,
+      "r": 0,
+      "fv": 0
+    },
+    "Oriathan Books": {
+      "hash": 3651586296,
+      "x": 357,
+      "y": 341,
+      "r": 0,
+      "fv": 6
+    },
+    "Oriathan Books": {
+      "hash": 3651586296,
+      "x": 365,
+      "y": 339,
+      "r": 0,
+      "fv": 13
+    },
+    "Oriathan Books": {
+      "hash": 3651586296,
+      "x": 339,
+      "y": 338,
+      "r": 0,
+      "fv": 13
+    },
+    "Court Bookcase": {
+      "hash": 3736953161,
+      "x": 369,
+      "y": 381,
+      "r": 0,
+      "fv": 13
+    },
+    "Court Bookcase": {
+      "hash": 3736953161,
+      "x": 369,
+      "y": 364,
+      "r": 0,
+      "fv": 10
+    },
+    "Court Bookcase": {
+      "hash": 3736953161,
+      "x": 369,
+      "y": 347,
+      "r": 0,
+      "fv": 12
+    },
+    "Court Bookcase": {
+      "hash": 3736953161,
+      "x": 370,
+      "y": 330,
+      "r": 0,
+      "fv": 9
+    },
+    "Image of Navali": {
+      "hash": 693228958,
+      "x": 299,
+      "y": 345,
+      "r": 8886,
+      "fv": 0
+    },
+    "Image of Zana": {
+      "hash": 3506797600,
+      "x": 358,
+      "y": 379,
+      "r": 59750,
+      "fv": 0
+    }
+  }
+}

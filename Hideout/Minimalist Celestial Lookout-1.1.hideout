@@ -1,0 +1,778 @@
+﻿{
+  "version": 1,
+  "language": "English",
+  "hideout_name": "Celestial Hideout",
+  "hideout_hash": 34604,
+  "doodads": {
+    "Stash": {
+      "hash": 3230065491,
+      "x": 545,
+      "y": 328,
+      "r": 0,
+      "fv": 0
+    },
+    "Guild Stash": {
+      "hash": 139228481,
+      "x": 572,
+      "y": 328,
+      "r": 0,
+      "fv": 0
+    },
+    "Waypoint": {
+      "hash": 1224707366,
+      "x": 559,
+      "y": 332,
+      "r": 12459,
+      "fv": 2
+    },
+    "Crafting Bench": {
+      "hash": 2059629901,
+      "x": 564,
+      "y": 252,
+      "r": 32768,
+      "fv": 7
+    },
+    "Map Device": {
+      "hash": 2306038834,
+      "x": 557,
+      "y": 290,
+      "r": 57344,
+      "fv": 0
+    },
+    "Navali": {
+      "hash": 693228958,
+      "x": 585,
+      "y": 324,
+      "r": 3182,
+      "fv": 0
+    },
+    "Einhar": {
+      "hash": 2684274993,
+      "x": 617,
+      "y": 271,
+      "r": 38901,
+      "fv": 0
+    },
+    "Alva": {
+      "hash": 2115859440,
+      "x": 513,
+      "y": 301,
+      "r": 6271,
+      "fv": 0
+    },
+    "Helena": {
+      "hash": 845403974,
+      "x": 524,
+      "y": 255,
+      "r": 35148,
+      "fv": 0
+    },
+    "Niko": {
+      "hash": 2906227343,
+      "x": 611,
+      "y": 321,
+      "r": 55285,
+      "fv": 0
+    },
+    "Jun": {
+      "hash": 3992724805,
+      "x": 513,
+      "y": 308,
+      "r": 20606,
+      "fv": 0
+    },
+    "Zana": {
+      "hash": 3506797600,
+      "x": 593,
+      "y": 322,
+      "r": 0,
+      "fv": 0
+    },
+    "Sister Cassia": {
+      "hash": 10623884,
+      "x": 507,
+      "y": 271,
+      "r": 12415,
+      "fv": 0
+    },
+    "Tane Octavius": {
+      "hash": 4285419720,
+      "x": 533,
+      "y": 323,
+      "r": 3150,
+      "fv": 0
+    },
+    "Kirac": {
+      "hash": 2913423765,
+      "x": 613,
+      "y": 310,
+      "r": 49152,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 611,
+      "y": 308,
+      "r": 0,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 583,
+      "y": 329,
+      "r": 32768,
+      "fv": 4
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 590,
+      "y": 322,
+      "r": 49152,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 597,
+      "y": 322,
+      "r": 49152,
+      "fv": 7
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 604,
+      "y": 322,
+      "r": 32772,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 583,
+      "y": 322,
+      "r": 0,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 512,
+      "y": 308,
+      "r": 0,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 595,
+      "y": 251,
+      "r": 49152,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 533,
+      "y": 322,
+      "r": 32770,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 602,
+      "y": 251,
+      "r": 0,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 526,
+      "y": 322,
+      "r": 49151,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 519,
+      "y": 322,
+      "r": 16384,
+      "fv": 4
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 512,
+      "y": 315,
+      "r": 0,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 512,
+      "y": 301,
+      "r": 0,
+      "fv": 4
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 505,
+      "y": 265,
+      "r": 32768,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 526,
+      "y": 251,
+      "r": 49154,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 519,
+      "y": 251,
+      "r": 0,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 505,
+      "y": 258,
+      "r": 0,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 609,
+      "y": 251,
+      "r": 49152,
+      "fv": 7
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 616,
+      "y": 258,
+      "r": 65535,
+      "fv": 4
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 616,
+      "y": 265,
+      "r": 32768,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 616,
+      "y": 272,
+      "r": 32768,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 512,
+      "y": 251,
+      "r": 49152,
+      "fv": 7
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 505,
+      "y": 251,
+      "r": 0,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 611,
+      "y": 322,
+      "r": 0,
+      "fv": 6
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 514,
+      "y": 322,
+      "r": 28673,
+      "fv": 26
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 526,
+      "y": 207,
+      "r": 1514,
+      "fv": 18
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 561,
+      "y": 332,
+      "r": 16383,
+      "fv": 25
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 525,
+      "y": 401,
+      "r": 0,
+      "fv": 26
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 526,
+      "y": 388,
+      "r": 49152,
+      "fv": 18
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 503,
+      "y": 307,
+      "r": 32770,
+      "fv": 16
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 533,
+      "y": 404,
+      "r": 32768,
+      "fv": 18
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 536,
+      "y": 394,
+      "r": 0,
+      "fv": 26
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 503,
+      "y": 267,
+      "r": 16385,
+      "fv": 12
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 501,
+      "y": 244,
+      "r": 49154,
+      "fv": 18
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 503,
+      "y": 279,
+      "r": 32768,
+      "fv": 25
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 503,
+      "y": 290,
+      "r": 16389,
+      "fv": 12
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 567,
+      "y": 236,
+      "r": 49154,
+      "fv": 18
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 622,
+      "y": 242,
+      "r": 0,
+      "fv": 18
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 616,
+      "y": 283,
+      "r": 0,
+      "fv": 26
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 635,
+      "y": 235,
+      "r": 0,
+      "fv": 8
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 598,
+      "y": 192,
+      "r": 32825,
+      "fv": 18
+    },
+    "Portal Parts": {
+      "hash": 3083176150,
+      "x": 602,
+      "y": 317,
+      "r": 49152,
+      "fv": 3
+    },
+    "Portal Parts": {
+      "hash": 3083176150,
+      "x": 516,
+      "y": 258,
+      "r": 16385,
+      "fv": 3
+    },
+    "Portal Parts": {
+      "hash": 3083176150,
+      "x": 611,
+      "y": 260,
+      "r": 32768,
+      "fv": 3
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 611,
+      "y": 315,
+      "r": 0,
+      "fv": 4
+    },
+    "Blocking Volume": {
+      "hash": 1154126271,
+      "x": 601,
+      "y": 324,
+      "r": 8190,
+      "fv": 26
+    },
+    "Primeval Support": {
+      "hash": 604672196,
+      "x": 618,
+      "y": 290,
+      "r": 49152,
+      "fv": 4
+    },
+    "Golden Sparkles": {
+      "hash": 312707477,
+      "x": 571,
+      "y": 274,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Tree Planter": {
+      "hash": 1665146691,
+      "x": 557,
+      "y": 290,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 557,
+      "y": 290,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Support": {
+      "hash": 604672196,
+      "x": 508,
+      "y": 282,
+      "r": 49154,
+      "fv": 4
+    },
+    "Golden Sparkles": {
+      "hash": 312707477,
+      "x": 538,
+      "y": 267,
+      "r": 0,
+      "fv": 0
+    },
+    "Golden Sparkles": {
+      "hash": 312707477,
+      "x": 599,
+      "y": 269,
+      "r": 0,
+      "fv": 0
+    },
+    "Golden Sparkles": {
+      "hash": 312707477,
+      "x": 594,
+      "y": 304,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Floor Crystal": {
+      "hash": 461919698,
+      "x": 571,
+      "y": 290,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Floor Crystal": {
+      "hash": 461919698,
+      "x": 559,
+      "y": 300,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Floor Crystal": {
+      "hash": 461919698,
+      "x": 559,
+      "y": 280,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Floor Crystal": {
+      "hash": 461919698,
+      "x": 546,
+      "y": 290,
+      "r": 0,
+      "fv": 0
+    },
+    "Raging Fire": {
+      "hash": 1184604406,
+      "x": 558,
+      "y": 292,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Container": {
+      "hash": 1298519825,
+      "x": 563,
+      "y": 290,
+      "r": 49152,
+      "fv": 1
+    },
+    "Primeval Container": {
+      "hash": 1298519825,
+      "x": 561,
+      "y": 286,
+      "r": 49152,
+      "fv": 1
+    },
+    "Primeval Container": {
+      "hash": 1298519825,
+      "x": 556,
+      "y": 286,
+      "r": 49152,
+      "fv": 1
+    },
+    "Primeval Container": {
+      "hash": 1298519825,
+      "x": 552,
+      "y": 290,
+      "r": 0,
+      "fv": 1
+    },
+    "Sewer Ground": {
+      "hash": 2521957828,
+      "x": 522,
+      "y": 307,
+      "r": 0,
+      "fv": 2
+    },
+    "Sewer Ground": {
+      "hash": 2521957828,
+      "x": 591,
+      "y": 307,
+      "r": 0,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 618,
+      "y": 308,
+      "r": 0,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 512,
+      "y": 294,
+      "r": 0,
+      "fv": 6
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 583,
+      "y": 336,
+      "r": 0,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 576,
+      "y": 336,
+      "r": 16385,
+      "fv": 3
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 540,
+      "y": 336,
+      "r": 16385,
+      "fv": 2
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 533,
+      "y": 329,
+      "r": 0,
+      "fv": 2
+    },
+    "Mosaic Wall": {
+      "hash": 2758367692,
+      "x": 558,
+      "y": 337,
+      "r": 0,
+      "fv": 5
+    },
+    "Mosaic Wall": {
+      "hash": 2758367692,
+      "x": 560,
+      "y": 251,
+      "r": 0,
+      "fv": 4
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 533,
+      "y": 251,
+      "r": 49152,
+      "fv": 4
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 540,
+      "y": 251,
+      "r": 0,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 588,
+      "y": 251,
+      "r": 0,
+      "fv": 0
+    },
+    "Thaumaturgy Pillar": {
+      "hash": 3766811383,
+      "x": 581,
+      "y": 251,
+      "r": 0,
+      "fv": 0
+    },
+    "Primeval Column": {
+      "hash": 2828537049,
+      "x": 576,
+      "y": 251,
+      "r": 59392,
+      "fv": 0
+    },
+    "Primeval Column": {
+      "hash": 2828537049,
+      "x": 546,
+      "y": 251,
+      "r": 57344,
+      "fv": 0
+    },
+    "Primeval Column": {
+      "hash": 2828537049,
+      "x": 570,
+      "y": 337,
+      "r": 49152,
+      "fv": 0
+    },
+    "Primeval Column": {
+      "hash": 2828537049,
+      "x": 546,
+      "y": 337,
+      "r": 49152,
+      "fv": 0
+    },
+    "Tower Archway": {
+      "hash": 1357755685,
+      "x": 561,
+      "y": 248,
+      "r": 0,
+      "fv": 0
+    },
+    "Hanging Lamp": {
+      "hash": 3152505982,
+      "x": 562,
+      "y": 248,
+      "r": 49152,
+      "fv": 2
+    },
+    "Sewer Ground": {
+      "hash": 2521957828,
+      "x": 568,
+      "y": 330,
+      "r": 32768,
+      "fv": 2
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 560,
+      "y": 289,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 558,
+      "y": 287,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 558,
+      "y": 293,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 556,
+      "y": 293,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 554,
+      "y": 291,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 554,
+      "y": 289,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 556,
+      "y": 287,
+      "r": 0,
+      "fv": 1
+    },
+    "Primeval Marker": {
+      "hash": 2105410465,
+      "x": 560,
+      "y": 291,
+      "r": 0,
+      "fv": 1
+    },
+    "Sulphite Light": {
+      "hash": 1999675025,
+      "x": 557,
+      "y": 290,
+      "r": 0,
+      "fv": 2
+    },
+    "Maraketh Lantern": {
+      "hash": 1546380709,
+      "x": 559,
+      "y": 343,
+      "r": 0,
+      "fv": 0
+    }
+  }
+}
